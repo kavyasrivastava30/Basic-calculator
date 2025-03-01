@@ -1,4 +1,4 @@
-PROJECT TITLE:- Quick cou nt with me.
+PROJECT TITLE:- Quick count with me.
 Description of the project:- This is the simple calculator that support basic arthemetic operations.
 # Supported operations are :-
 1) Addition(+)
