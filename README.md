@@ -2,7 +2,7 @@ PROJECT TITLE:- Quick count with me.
 Description of the project:- This is the simple calculator that support basic arthemetic operations.
 # Supported operations are :-
 1) Addition(+)
-2) Substraction*(-)
+2) Substraction(-)
 3) Multiplication (*)
 4) Division (/)
    # Usage
@@ -11,4 +11,4 @@ Description of the project:- This is the simple calculator that support basic ar
    3) Enter the operations (+,-,*,/)
    4) Enter the second number.
    5) Then press equals to (=)
-   6) The calculator will display the rseult .   
+   6) The calculator will display the result .   
